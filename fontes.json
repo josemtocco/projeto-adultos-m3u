@@ -1,0 +1,16 @@
+{
+  "fontes": [
+    {
+      "nome": "IPTV-org XXX",
+      "url": "https://iptv-org.github.io/iptv/categories/xxx.m3u"
+    },
+    {
+      "nome": "IPTV-org NSFW",
+      "url": "https://iptv-org.github.io/iptv/index.nsfw.m3u"
+    },
+    {
+      "nome": "YanG-1989 Adult",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+    }
+  ]
+}
