@@ -1,0 +1,17 @@
+{
+  "fontes_configuradas": 3,
+  "entradas_m3u_lidas": 0,
+  "entradas_identificadas_como_adultas": 0,
+  "canais_ativos": 0,
+  "removidos_por_falha_no_teste": 0,
+  "erros_de_fontes": [
+    {
+      "fonte": "IPTV-org NSFW",
+      "erro": "404 Client Error: Not Found for url: https://iptv-org.github.io/iptv/index.nsfw.m3u"
+    },
+    {
+      "fonte": "YanG-1989 Adult",
+      "erro": "404 Client Error: Not Found for url: https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+    }
+  ]
+}
